@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">implicitIntent2</string>
+    <string name="implicit_intent_app">Implicit Intent App!</string>
+    <string name="know_the_developer">Know the developer</string>
+</resources>
